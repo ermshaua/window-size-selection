@@ -1,0 +1,30 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+#PyCharm
+.idea/
+#VSCode
+.code/
+
+# Maven
+log/
+target/
+
+# PyDev
+.pydevproject
+__pycache__
+.pyc
+.cache/
+.ipynb_checkpoints/
+
+# Specific
+datasets/TSSB/*
+datasets/UCRAnomaly/*
+
+# Other
+.metadata/
+.recommenders/
+.DS_Store
+tmp/

@@ -1,0 +1,6 @@
+,dataset,Ground Truth,FFT,ACF,SuSS,MWF,Autoperiod,RobustPeriod
+0,winding_col,60,99,60,62,117,60,339
+1,ecg-heartbeat-av,125,600,73,104,138,635,43
+2,fNIRS_subLen_600,160,800,44,122,-1,1143,318
+3,muscle_activation,600,879,866,108,-1,875,175
+4,npo141,25,20,121,128,372,22,-1
