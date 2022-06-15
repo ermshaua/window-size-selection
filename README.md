@@ -27,7 +27,7 @@ The review and benchmark was realized with the code and data sets from multiple 
   - One-Class SVM, Isolation Forest (https://scikit-learn.org/)
   - Discord Discovery (https://stumpy.readthedocs.io/)
 - Segmentation
-  - Paramter-free ClaSP (https://sites.google.com/view/ts-parameter-free-clasp/)
+  - ClaSP (https://sites.google.com/view/ts-parameter-free-clasp/)
   - FLOSS (https://stumpy.readthedocs.io/)
   - Window-based Segmentation (https://centre-borelli.github.io/ruptures-docs/)
 - Motif Discovery
