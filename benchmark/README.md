@@ -1,2 +1,2 @@
 # Benchmark
-This folder contains the benchmark source codes for anomaly detection, segmentation and motif discovery.
+This folder contains the benchmark source codes for anomaly detection, segmentation and motif discovery. You can create the window sizes for the respective datasets executing the `*_wss.py` files and create the benchmark performances using the `*_benchmark.py` scripts.
