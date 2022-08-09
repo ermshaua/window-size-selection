@@ -17,7 +17,16 @@ You can download this repository (clicking the download button in the upper righ
 
 ## Citation
 
-The associated paper "Window Size Selection In Unsupervised Time Series Analytics: A Review and Benchmark" is currently under double-blinded review. Thereafter, we provide citation details.
+If you want reference our work in your scientific publication, we would appreciate the following citation:
+
+```
+@inproceedings{wss2022,
+  title={Window Size Selection In Unsupervised Time Series Analytics: A Review and Benchmark},
+  author={Ermshaus, Arik and Sch"afer, Patrick and Leser, Ulf},
+  booktitle={AALTD@PKDD/ECML},
+  year={2022}
+}
+```
 
 ## Resources
 
