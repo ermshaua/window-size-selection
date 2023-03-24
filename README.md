@@ -1,5 +1,5 @@
 # Window Size Selection
-This is the supporting website for the paper "Window Size Selection In Unsupervised Time Series Analytics: A Review and Benchmark". It contains the used source codes, data sets, results and analysis notebooks.
+This is the supporting website for the paper "Window Size Selection In Unsupervised Time Series Analytics: A Review and Benchmark". It contains the used source codes, data sets, results and analysis notebooks. If you want to use window size selection techniques in your scientific publication or application, please use the updated and maintained <a href="https://github.com/ermshaua/claspy">claspy</a> Python package.
 
 Time series (TS) are sequences of values ordered in time and have in common, that important insights from the data can be drawn by inspecting local substructures, or windows. As such, many state-of-the-art time series data mining (TSDM) methods characterize TS by inspecting local substructures. The window size for extracting such subsequences is a crucial hyper-parameter, and setting an inappropriate value results in poor TSDM results. We provide, for the first time, a systematic survey and experimental study of 6 TS window size selection (WSS) algorithms on three diverse TSDM tasks, namely anomaly detection, segmentation and motif discovery, using state-of-the art TSDM algorithms and benchmarks.
 
@@ -17,14 +17,14 @@ You can download this repository (clicking the download button in the upper righ
 
 ## Citation
 
-If you want reference our work in your scientific publication, we would appreciate the following citation:
+If you want reference our work in your scientific publication, we would appreciate the following <a href="https://doi.org/10.1007/978-3-031-24378-3_6">citation</a>:
 
 ```
 @inproceedings{wss2022,
   title={Window Size Selection In Unsupervised Time Series Analytics: A Review and Benchmark},
   author={Ermshaus, Arik and Sch"afer, Patrick and Leser, Ulf},
-  booktitle={AALTD@PKDD/ECML},
-  year={2022}
+  booktitle="Advanced Analytics and Learning on Temporal Data",
+  year="2023",
 }
 ```
 
