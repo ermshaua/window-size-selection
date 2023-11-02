@@ -22,9 +22,9 @@ If you want reference our work in your scientific publication, we would apprecia
 ```
 @inproceedings{wss2022,
   title={Window Size Selection In Unsupervised Time Series Analytics: A Review and Benchmark},
-  author={Ermshaus, Arik and Sch"afer, Patrick and Leser, Ulf},
-  booktitle="Advanced Analytics and Learning on Temporal Data",
-  year="2023",
+  author={Ermshaus, Arik and Sch{\"a}fer, Patrick and Leser, Ulf},
+  booktitle={7th Workshop on Advanced Analytics and Learning on Temporal Data},
+  year={2022}
 }
 ```
 
