@@ -70,7 +70,7 @@ def evaluate_discord(exp_path, n_jobs, verbose):
 
     os.mkdir(exp_path + exp_name)
 
-    df_wsd = pd.read_csv("../experiments/segmentation/window_sizes.csv")
+    df_wsd = pd.read_csv("../experiments/anomaly_detection/window_sizes.csv")
 
     for algo in df_wsd.columns[2:]:
         candidate_name = f"{exp_name}_{algo}"
@@ -104,7 +104,7 @@ def evaluate_if(exp_path, n_jobs, verbose):
 
     os.mkdir(exp_path + exp_name)
 
-    df_wsd = pd.read_csv("../experiments/segmentation/window_sizes.csv")
+    df_wsd = pd.read_csv("../experiments/anomaly_detection/window_sizes.csv")
 
     for algo in df_wsd.columns[2:]:
         candidate_name = f"{exp_name}_{algo}"
@@ -138,7 +138,7 @@ def evaluate_svm(exp_path, n_jobs, verbose):
 
     os.mkdir(exp_path + exp_name)
 
-    df_wsd = pd.read_csv("../experiments/segmentation/window_sizes.csv")
+    df_wsd = pd.read_csv("../experiments/anomaly_detection/window_sizes.csv")
 
     for algo in df_wsd.columns[2:]:
         candidate_name = f"{exp_name}_{algo}"
